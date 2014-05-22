@@ -146,6 +146,7 @@ Pomen posameznih polj:
   * **connected**: "true", če gre za nakazilo hčerinskemu podjetju.
   * **id**: id transakcije,
   * **label**: Oznaka naslovnika transakcije.
+  * **skd**: Standardna klasifikacija dejavnosti, SKD. (v opuščanju)
  * **monthly_sums**: Seznam objektov, ki vsebujejo mesečne vsote za prikaz na časovnici.
   * **amount**: Skupna vsota zneskov transakcij za dani mesec.
   * **month**: Mesec v obliki datuma po zapisu ISO 8601.
@@ -153,7 +154,7 @@ Pomen posameznih polj:
   * **date**: datum dogodka v zapisu ISO 8601.
   * **link**: URL naslov, če ima dogodek povezavo, sicer prazno.
   * **description**: Opis dogodka.
-  * **type**: Kategorija dogodka.
+  * **type**: Kategorija dogodka, ime barve, s katero je dogodek prikazan na spletni strani.
 
 
 
